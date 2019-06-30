@@ -1,0 +1,219 @@
+﻿正在解析课程 :  340738 1.1 Introduction of Course
+https://cnmooc.org/study/unit/340738.mooc
+视频下载地址:  https://s.cnmooc.org/video/1/3e/02/13e02da936a34ae696e000f9de84619c.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/571add8635b24b02a913da887b48e39a.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/7a036cebbd194cb8895211e00748f8c7.pptx
+有关资源的整个JSON信息已经保存到340738 1.1 Introduction of Course.json
+----------------------------------------
+正在解析课程 :  340740 1.2 Introduction of Object-Oriented Analysis...
+https://cnmooc.org/study/unit/340740.mooc
+视频下载地址:  https://s.cnmooc.org/video/9/36/7e/9367e95b9fcc4911b37e45282f112ee3.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/e1beea301972433cb8473245d71a9b11.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/97529bfeb9fb4c82bdd4c481b77e60ea.pptx
+有关资源的整个JSON信息已经保存到340740 1.2 Introduction of Object-Oriented Analysis....json
+----------------------------------------
+正在解析课程 :  340741 1.3 Introduction of Agile Unified Process
+https://cnmooc.org/study/unit/340741.mooc
+视频下载地址:  https://s.cnmooc.org/video/2/27/6b/2276b597d06b438ba7eed8c6a442b525.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/27e09c787ae544bfbf3173f629618d10.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/9d9fb8ce274e4417976af636d24e614a.pptx
+有关资源的整个JSON信息已经保存到340741 1.3 Introduction of Agile Unified Process.json
+----------------------------------------
+正在解析课程 :  340743 2.1 Inception and Case Studies
+https://cnmooc.org/study/unit/340743.mooc
+视频下载地址:  https://s.cnmooc.org/video/4/39/e2/439e24fbb20a46659670abf24886d942.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/514f6748a63f4b768c5874e5b0103609.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/919bfa0bcbcd4484b334dde3f8e483cb.pptx
+有关资源的整个JSON信息已经保存到340743 2.1 Inception and Case Studies.json
+----------------------------------------
+正在解析课程 :  340744 2.2 UML, UML Tools and UML as Blueprint
+https://cnmooc.org/study/unit/340744.mooc
+视频下载地址:  https://s.cnmooc.org/video/8/15/73/81573ff2c95e4a10a708aa7774963e9d.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/602019d5f042414293b818ad77ad40b2.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/f9f55866ced642eeacf33fe333237c8a.pptx
+有关资源的整个JSON信息已经保存到340744 2.2 UML, UML Tools and UML as Blueprint.json
+----------------------------------------
+正在解析课程 :  340745 2.3 Object-Oriented Analysis and Design Overview
+https://cnmooc.org/study/unit/340745.mooc
+视频下载地址:  https://s.cnmooc.org/video/2/af/2f/2af2f749e19445e39f1611ec8895d26f.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/945b6c0dda2f403b8a8835aeb43b981a.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/ef2e85c7293b441eb67b7e3c11002196.pptx
+有关资源的整个JSON信息已经保存到340745 2.3 Object-Oriented Analysis and Design Overview.json
+----------------------------------------
+正在解析课程 :  340747 3.1 Requirements Management  and Case Studies
+https://cnmooc.org/study/unit/340747.mooc
+视频下载地址:  https://s.cnmooc.org/video/c/f6/6c/cf66c677178d486cbe1c7408250c08ff.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/fa8cbbc1ac204a9d936599bab715922f.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/077971e2616e4ed5be129fd1b3d1ab99.pptx
+有关资源的整个JSON信息已经保存到340747 3.1 Requirements Management  and Case Studies.json
+----------------------------------------
+正在解析课程 :  340748 3.2 Use Case
+https://cnmooc.org/study/unit/340748.mooc
+视频下载地址:  https://s.cnmooc.org/video/d/ff/28/dff28316855f40a4b34d1f808a22dc03.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/7f16c89e237347308009762ee1aac3fb.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/a05868707b264801bbfff9b43df34f20.pptx
+有关资源的整个JSON信息已经保存到340748 3.2 Use Case.json
+----------------------------------------
+正在解析课程 :  340750 4.1 Elaboration Iteration 1 and Case Studies
+https://cnmooc.org/study/unit/340750.mooc
+视频下载地址:  https://s.cnmooc.org/video/7/17/1e/7171ee2d79fd4a9a8c798db992115cbd.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/bfba936e1b474a12ad52b5607fee9eac.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/0482b5e62f8544d29344f280c2a6ce7b.pptx
+有关资源的整个JSON信息已经保存到340750 4.1 Elaboration Iteration 1 and Case Studies.json
+----------------------------------------
+正在解析课程 :  340751 4.2 Domain Models
+https://cnmooc.org/study/unit/340751.mooc
+视频下载地址:  https://s.cnmooc.org/video/6/bf/3f/6bf3fa0f00b24028b337a17b40c3d18c.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/6110472df61545338061c1114a5dddbd.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/1695cc67c7544c2a8e5c55579545f0fd.pptx
+有关资源的整个JSON信息已经保存到340751 4.2 Domain Models.json
+----------------------------------------
+正在解析课程 :  340752 4.3 System Sequence Diagrams
+https://cnmooc.org/study/unit/340752.mooc
+视频下载地址:  https://s.cnmooc.org/video/c/89/00/c890020abbce4a00804707ce8fb1a447.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/0c56b92912ef4847838194635ebccb1e.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/5007331843104d09b82c77fa764ac4f4.pptx
+有关资源的整个JSON信息已经保存到340752 4.3 System Sequence Diagrams.json
+----------------------------------------
+正在解析课程 :  340753 4.4 UML Package Diagrams
+https://cnmooc.org/study/unit/340753.mooc
+----------------------------------------
+正在解析课程 :  340754 4.5 Mapping Analysis Models to Design Models
+https://cnmooc.org/study/unit/340754.mooc
+视频下载地址:  https://s.cnmooc.org/video/7/26/e1/726e152d75e949b194283412d5adcfd8.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/10ab7cf87e074613853e4636a5dd598b.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/8eee1bdebdd04fd8ba0846812452e250.pptx
+有关资源的整个JSON信息已经保存到340754 4.5 Mapping Analysis Models to Design Models.json
+----------------------------------------
+正在解析课程 :  340755 4.6 UML Interaction Diagrams
+https://cnmooc.org/study/unit/340755.mooc
+视频下载地址:  https://s.cnmooc.org/video/0/e7/09/0e709a787b574da6be1cef035dd24a6e.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/4646d5a4747943ee8f4221fd985968a1.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/1e31be0024954d8eb9b23fdad1183e1e.pptx
+有关资源的整个JSON信息已经保存到340755 4.6 UML Interaction Diagrams.json
+----------------------------------------
+正在解析课程 :  340756 4.7 UML Class Diagrams
+https://cnmooc.org/study/unit/340756.mooc
+视频下载地址:  https://s.cnmooc.org/video/6/05/82/60582a245560480ebf63370b25ec772d.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/8f312a8fcdf14318bed7fc3ee17e8b5b.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/9193ae529cc545238de890a848ed05ed.pptx
+有关资源的整个JSON信息已经保存到340756 4.7 UML Class Diagrams.json
+----------------------------------------
+正在解析课程 :  340757 4.8 GRASP: Designing Objects with Responsibilities
+https://cnmooc.org/study/unit/340757.mooc
+视频下载地址:  https://s.cnmooc.org/video/4/73/fd/473fd971635245dca40b705c38862f9b.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/b8ea66bb4b9c455297ec7d24aae73889.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/68193ecad6c54788878920ed2f4910b7.pptx
+有关资源的整个JSON信息已经保存到340757 4.8 GRASP: Designing Objects with Responsibilities.json
+----------------------------------------
+正在解析课程 :  340758 4.9 Mapping Designs to Code
+https://cnmooc.org/study/unit/340758.mooc
+视频下载地址:  https://s.cnmooc.org/video/3/74/42/37442b6197444979b7123a4b2fd2e2fd.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/73189e98a9c046d589396f76cef19897.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/8aabdfb6580b45919b99739658b81143.pptx
+有关资源的整个JSON信息已经保存到340758 4.9 Mapping Designs to Code.json
+----------------------------------------
+正在解析课程 :  340760 5.1 Elaboration Iteration 2 and Case Studies
+https://cnmooc.org/study/unit/340760.mooc
+视频下载地址:  https://s.cnmooc.org/video/7/fe/5f/7fe5f0de6f9e4dc59cf371b26ec9da2c.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/ac088ed18792437591e2e2b52bd75a1f.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/7da640ef83134f818e683c0ac9a88f02.pptx
+有关资源的整个JSON信息已经保存到340760 5.1 Elaboration Iteration 2 and Case Studies.json
+----------------------------------------
+正在解析课程 :  340761 5.2 GRASP: More Objects with Responsibilities
+https://cnmooc.org/study/unit/340761.mooc
+视频下载地址:  https://s.cnmooc.org/video/a/a2/eb/aa2ebe94affc4965b844931f0bccb0aa.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/f8c348c109124befbaa1cc5095da2479.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/be97228665e341b693e950a1d7129f2b.pptx
+有关资源的整个JSON信息已经保存到340761 5.2 GRASP: More Objects with Responsibilities.json
+----------------------------------------
+正在解析课程 :  340762 5.3 Applying GoF Design Patterns
+https://cnmooc.org/study/unit/340762.mooc
+视频下载地址:  https://s.cnmooc.org/video/7/c0/53/7c05395b274949d1962469666162fc08.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/d09fb175cbed4480a43dfbaecf221a22.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/a8a917a5055d4f88ae12c9029f709e4d.pptx
+有关资源的整个JSON信息已经保存到340762 5.3 Applying GoF Design Patterns.json
+----------------------------------------
+正在解析课程 :  340766 6.1 Elaboration Iteration 3 and Case Studies
+https://cnmooc.org/study/unit/340766.mooc
+视频下载地址:  https://s.cnmooc.org/video/3/a9/8a/3a98aee285934f2a815bcab88f4ff32b.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/a7b99cae9e1945b989e24bfb58e22012.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/2577dc2b89964276b2d14a1018ef47c2.pptx
+有关资源的整个JSON信息已经保存到340766 6.1 Elaboration Iteration 3 and Case Studies.json
+----------------------------------------
+正在解析课程 :  340767 6.2 UML Activity Diagrams and Modeling
+https://cnmooc.org/study/unit/340767.mooc
+视频下载地址:  https://s.cnmooc.org/video/1/a0/31/1a03110f35e44a1180a9c964a7df8df6.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/e7be220967d44672b2a1d7a4ad558b09.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/b967aac2640242e9a3773ed3856651cc.pptx
+有关资源的整个JSON信息已经保存到340767 6.2 UML Activity Diagrams and Modeling.json
+----------------------------------------
+正在解析课程 :  340768 6.3 UML State Machine Diagrams and Modeling
+https://cnmooc.org/study/unit/340768.mooc
+视频下载地址:  https://s.cnmooc.org/video/6/09/dd/609dd4ea63a049c2a019f58f1bb9c3cc.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/8cddc649aa8a4d6a831d399944f5b6b7.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/c84f522fadbd49bf840087cf2980a98b.pptx
+有关资源的整个JSON信息已经保存到340768 6.3 UML State Machine Diagrams and Modeling.json
+----------------------------------------
+正在解析课程 :  340769 6.4 Relating Use Cases
+https://cnmooc.org/study/unit/340769.mooc
+视频下载地址:  https://s.cnmooc.org/video/4/15/45/4154591b515945f8baccb5e656869294.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/4964aa4f393b4f978e363531a0b8b881.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/99d36d20def54901b3b4ded910d9e91e.pptx
+有关资源的整个JSON信息已经保存到340769 6.4 Relating Use Cases.json
+----------------------------------------
+正在解析课程 :  340770 6.5 Domain Model Refinement
+https://cnmooc.org/study/unit/340770.mooc
+视频下载地址:  https://s.cnmooc.org/video/4/19/79/419795a106094d5481683fcb3fd0ab9e.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/d0dae28b4b724db7bf97b9bcc2cb0fd9.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/8584679796bb4f9f93493cd7932adcdd.pptx
+有关资源的整个JSON信息已经保存到340770 6.5 Domain Model Refinement.json
+----------------------------------------
+正在解析课程 :  340771 6.6 Architecture Design Models Refinement
+https://cnmooc.org/study/unit/340771.mooc
+视频下载地址:  https://s.cnmooc.org/video/d/85/22/d8522642a4a04a3c8f24be1df0cf31a8.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/7723bfd652b54abe83687c14bbae47b9.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/2967bd02ffe04743a6fef8735ac79bd6.pptx
+有关资源的整个JSON信息已经保存到340771 6.6 Architecture Design Models Refinement.json
+----------------------------------------
+正在解析课程 :  340772 6.7 More Object Design with GoF Patterns
+https://cnmooc.org/study/unit/340772.mooc
+视频下载地址:  https://s.cnmooc.org/video/6/14/38/61438932bde54a1388c98f193e916ceb.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/1fc9a9e0a3f042799a34273c657ec1ff.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/7c055e3ce10d49db89758cd381124ee6.pptx
+有关资源的整个JSON信息已经保存到340772 6.7 More Object Design with GoF Patterns.json
+----------------------------------------
+正在解析课程 :  340773 6.8 Designing a Persistence Framework with Patterns
+https://cnmooc.org/study/unit/340773.mooc
+视频下载地址:  https://s.cnmooc.org/video/4/09/19/40919631ae884684a58d19f83cca5436.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/51cfcce25e584a65a950a898a60a1ec6.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/7/cffec0b6074c4f91980ba2d7541b67e9.pptx
+有关资源的整个JSON信息已经保存到340773 6.8 Designing a Persistence Framework with Patterns.json
+----------------------------------------
+正在解析课程 :  340774 6.9 Software Architecture Document
+https://cnmooc.org/study/unit/340774.mooc
+视频下载地址:  https://s.cnmooc.org/video/0/5c/1a/05c1add681d849e5a326589a220c6030.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/46bbdc9e35b44a878ed4d1f36098ea51.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/b66905244b154b34b02c1ab1741faae9.pptx
+有关资源的整个JSON信息已经保存到340774 6.9 Software Architecture Document.json
+----------------------------------------
+正在解析课程 :  340776 7.1 Iterative Development and Agile Project Management
+https://cnmooc.org/study/unit/340776.mooc
+视频下载地址:  https://s.cnmooc.org/video/6/a9/6f/6a96f9bca94a442ca805e98d55ccd74a.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/56b3a903a36b40f5a676d584543d4076.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/87eddf36c0fb4f6ea0d4ed1478912137.pptx
+有关资源的整个JSON信息已经保存到340776 7.1 Iterative Development and Agile Project Management.json
+----------------------------------------
+正在解析课程 :  340777 7.2 Software Architecture in Practice
+https://cnmooc.org/study/unit/340777.mooc
+视频下载地址:  https://s.cnmooc.org/video/e/44/10/e4410dd33aa04569b39ebe77038509a5.mp4
+视频字幕下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/47571d12c5e4472fa93d2828f48ec563.srt
+课件下载地址:  https://static.cnmooc.org/repositry/resource/d/1703/6/148baf7555b74d49a4a165d37fd45a47.pptx
+有关资源的整个JSON信息已经保存到340777 7.2 Software Architecture in Practice.json
+----------------------------------------
+正在解析课程 :  340779 1 FAQs
+https://cnmooc.org/study/unit/340779.mooc
+----------------------------------------
+正在解析课程 :  364466 2 OOP 与 OOAD and UML
+https://cnmooc.org/study/unit/364466.mooc
+----------------------------------------
